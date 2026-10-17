@@ -12,4 +12,4 @@ A public, static GitHub Pages website for DocKey’s privacy and support informa
 
 ## Publisher information
 
-DocKey is operated by Kashif Butt as an individual developer. No dedicated public DocKey contact email is confirmed yet; do not expose the Apple developer account email or other personal contact details. Add a dedicated monitored private support channel before App Store submission.
+DocKey is operated by Kashif Butt as an individual developer. The public support and privacy contact is mkashif.butt@hotmail.com. The privacy disclosures still require verification against the release build before App Store submission.
